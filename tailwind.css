@@ -9,8 +9,8 @@
       url('./assets/fonts/Figtree-Italic-VariableFont_wght.ttf')
         format('truetype');
   }
+}
 
-  body {
-    font-family: 'Figtree', sans-serif;
-  }
+body {
+  font-family: 'Figtree', sans-serif;
 }
